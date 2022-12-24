@@ -11,3 +11,5 @@ print(y)
 
 
 z = y + x
+
+q = z ** 2
